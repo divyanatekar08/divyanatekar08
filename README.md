@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=MS+Urban+Data+Science+%40+NYU;Urban+AI+%26+Spatial+Analytics;LLMs+%26+Agentic+Workflows;Full-Stack+%26+Cloud+Engineering)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-yeshwant-natekar/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/divyanatekar08) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://divyanatekar08.github.io/) 
 [![Email](https://img.shields.io/badge/Email-dyn2009%40nyu.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dyn2009@nyu.edu)
 
@@ -14,15 +15,15 @@
 
 ### 💡 About Me
 
-I am an **MS Urban Data Science student at NYU Tandon** specializing in **Urban AI, Spatial Data Science, and Large Language Models**. I bridge machine learning, spatial interaction modeling, and full-stack cloud engineering to build intelligent decision engines.
+I am an **MS Urban Data Science student at NYU Tandon** specializing in **Urban AI, Spatial Data Science, and Large Language Models**[cite: 2]. I bridge machine learning, spatial interaction modeling, and full-stack cloud engineering to build intelligent decision engines[cite: 2].
 
 ---
 
 ### 🚀 Key Focus Areas
 
-- 🌆 **Urban AI & Simulation**: Agent-Based Modeling, Human Mobility Analysis, Gravity-based Preference Engines
-- 🤖 **Generative AI & LLMs**: Context Pipeline Architecture, Langfuse Telemetry, RAG, Prompt Engineering
-- 🛰️ **3D Spatial Data**: LiDAR Point Cloud Processing, RANSAC transient object removal, Spatial Clustering
+- 🌆 **Urban AI & Simulation**: Agent-Based Modeling, Human Mobility Analysis, Gravity-based Preference Engines[cite: 2]
+- 🤖 **Generative AI & LLMs**: Context Pipeline Architecture, Langfuse Telemetry, RAG, Prompt Engineering[cite: 2]
+- 🛰️ **3D Spatial Data**: LiDAR Point Cloud Processing, RANSAC transient object removal, Spatial Clustering[cite: 2]
 
 ---
 
@@ -61,9 +62,9 @@ I am an **MS Urban Data Science student at NYU Tandon** specializing in **Urban 
 
 ### 🔬 Featured Research & Work
 
-- **Agent-Based Urban Simulation (NYU CUSP)**: Integrated LLMs and spatial interaction models to simulate urban mobility flows and multi-agent choice behavior.
-- **Transient Object Removal in LiDAR**: Implemented RANSAC and spatial clustering algorithms to filter 3D point cloud data for high-fidelity urban modeling.
-- **AI Decision Engine Engineering**: Built Next.js REST micro-routes and context pipeline transformations backed by Supabase & Langfuse observability.
+- **Agent-Based Urban Simulation (NYU CUSP)**: Integrated LLMs and spatial interaction models to simulate urban mobility flows and multi-agent choice behavior[cite: 2].
+- **Transient Object Removal in LiDAR**: Implemented RANSAC and spatial clustering algorithms to filter 3D point cloud data for high-fidelity urban modeling[cite: 2].
+- **AI Decision Engine Engineering**: Built Next.js REST micro-routes and context pipeline transformations backed by Supabase & Langfuse observability[cite: 2].
 
 ---
 
