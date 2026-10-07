@@ -15,15 +15,15 @@
 
 ### 💡 About Me
 
-I am an **MS Urban Data Science student at NYU Tandon** specializing in **Urban AI, Spatial Data Science, and Large Language Models**[cite: 2]. I bridge machine learning, spatial interaction modeling, and full-stack cloud engineering to build intelligent decision engines[cite: 2].
+I am an **MS Urban Data Science student at NYU Tandon** specializing in **Urban AI, Spatial Data Science, and Large Language Models**. I bridge machine learning, spatial interaction modeling, and full-stack cloud engineering to build intelligent decision engines.
 
 ---
 
 ### 🚀 Key Focus Areas
 
-- 🌆 **Urban AI & Simulation**: Agent-Based Modeling, Human Mobility Analysis, Gravity-based Preference Engines[cite: 2]
-- 🤖 **Generative AI & LLMs**: Context Pipeline Architecture, Langfuse Telemetry, RAG, Prompt Engineering[cite: 2]
-- 🛰️ **3D Spatial Data**: LiDAR Point Cloud Processing, RANSAC transient object removal, Spatial Clustering[cite: 2]
+- 🌆 **Urban AI & Simulation**: Agent-Based Modeling, Human Mobility Analysis, Gravity-based Preference Engines
+- 🤖 **Generative AI & LLMs**: Context Pipeline Architecture, Langfuse Telemetry, RAG, Prompt Engineering
+- 🛰️ **3D Spatial Data**: LiDAR Point Cloud Processing, RANSAC transient object removal, Spatial Clustering
 
 ---
 
@@ -62,9 +62,9 @@ I am an **MS Urban Data Science student at NYU Tandon** specializing in **Urban 
 
 ### 🔬 Featured Research & Work
 
-- **Agent-Based Urban Simulation (NYU CUSP)**: Integrated LLMs and spatial interaction models to simulate urban mobility flows and multi-agent choice behavior[cite: 2].
-- **Transient Object Removal in LiDAR**: Implemented RANSAC and spatial clustering algorithms to filter 3D point cloud data for high-fidelity urban modeling[cite: 2].
-- **AI Decision Engine Engineering**: Built Next.js REST micro-routes and context pipeline transformations backed by Supabase & Langfuse observability[cite: 2].
+- **Agent-Based Urban Simulation (NYU CUSP)**: Integrated LLMs and spatial interaction models to simulate urban mobility flows and multi-agent choice behavior.
+- **Transient Object Removal in LiDAR**: Implemented RANSAC and spatial clustering algorithms to filter 3D point cloud data for high-fidelity urban modeling.
+- **AI Decision Engine Engineering**: Built Next.js REST micro-routes and context pipeline transformations backed by Supabase & Langfuse observability.
 
 ---
 
